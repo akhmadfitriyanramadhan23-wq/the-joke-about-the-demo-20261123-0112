@@ -4,7 +4,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const JOKE =
-  "At the demo, my AI coding agent presented my project, fixed a bug live, and took the applause — I just stood beside it nodding along, like a tour guide in a museum I didn't build.";
+  "At the demo, my AI coding agent presented my project, fixed the crash live, and took the applause — I just stood beside it nodding along, like a tour guide in a museum I didn't build.";
 
 const codePoints = [...JOKE].length;
 if (codePoints < 1 || codePoints > 280) {

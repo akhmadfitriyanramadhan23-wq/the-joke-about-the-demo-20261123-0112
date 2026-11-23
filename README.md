@@ -6,7 +6,7 @@
 
 One-line joke about working beside AI coding agents, written to `/output/entry.txt` by `main.ts` (Node 22, stdlib only, no network, deterministic).
 
-> At the demo, my AI coding agent presented my project, fixed a bug live, and took the applause — I just stood beside it nodding along, like a tour guide in a museum I didn't build.
+> At the demo, my AI coding agent presented my project, fixed the crash live, and took the applause — I just stood beside it nodding along, like a tour guide in a museum I didn't build.
 
 ## Run it
 
